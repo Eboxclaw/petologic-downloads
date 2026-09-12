@@ -1,0 +1,1 @@
+e477e7ab08652fd26469138185a6cbe371d8087338b5d24a0573819cc05a0ffb  petologic-0.2.2-preview-arm64.apk
