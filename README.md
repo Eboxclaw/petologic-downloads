@@ -7,9 +7,8 @@ carries release binaries, checksums and the installation guide.
 
 ## Releases
 
-- `v0.0.1` — current preview. The signed APK and SHA256SUMS.txt are attached once production
-  signing completes. Artifacts are also mirrored under `apk/v0.0.1/` for the site streaming
-  downloader.
+- `v0.0.1` — current preview, signed. APK + SHA256SUMS.txt attached to the release and mirrored
+  under `apk/v0.0.1/` for the site streaming downloader.
 
 ## Verification
 

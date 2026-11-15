@@ -1,0 +1,1 @@
+2ddbf0be302818f682783406bd8a4307f667ca9dcc88dea1301334c1f1d2fb7f  petologic-0.0.1-arm64.apk
