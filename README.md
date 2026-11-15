@@ -1,13 +1,15 @@
-# Paladino downloads
+# Petologic downloads
 
-Public binary distribution of the Paladino Android preview (Petologic). Source code lives in
-[Eboxclaw/petologic](https://github.com/Eboxclaw/petologic); this repository only carries
-release binaries, checksums and the installation guide.
+Public binary distribution of the Petologic Android app, a proof of concept that combines an
+on-device AI agent (0xPaladino) with antivirus, antimalware and anti spam checks. Source code
+lives in [Eboxclaw/petologic](https://github.com/Eboxclaw/petologic); this repository only
+carries release binaries, checksums and the installation guide.
 
 ## Releases
 
-- `v0.0.1` — current preview (draft until the signed APK is attached). Files land on the release
-  and are mirrored under `apk/v0.0.1/` for the site's accelerated streaming downloader.
+- `v0.0.1` — current preview. The signed APK and SHA256SUMS.txt are attached once production
+  signing completes. Artifacts are also mirrored under `apk/v0.0.1/` for the site streaming
+  downloader.
 
 ## Verification
 
